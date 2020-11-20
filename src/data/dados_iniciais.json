@@ -1,0 +1,169 @@
+{
+  "categorias": [
+    {
+      "titulo": "Music",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#8726D3",
+      "link_extra": {
+        "text": "Minhas playlists favoritas no YouTube",
+        "url": "https://www.youtube.com/"
+      },
+      "videos": [
+        {
+          "titulo": "Metallica S&M 2000 Full Concert",
+          "url": "https://www.youtube.com/watch?v=zMD7qmge2D4&t=2544s"
+        },
+        {
+          "titulo": "Metallica S&M (2000)",
+          "url": "https://www.youtube.com/watch?v=zMD7qmge2D4&t=2544s"
+        },
+        {
+          "titulo": "Meu mix",
+          "url": "https://www.youtube.com/watch?v=O_dZGrg6A50&list=RDMMO_dZGrg6A50&start_radio=1"
+        },
+        {
+          "titulo": "Mix Nonpoint",
+          "url": "https://www.youtube.com/watch?v=OoGg9bIyDPY&list=RDEMXPt4kwRyOxOEU_xgqT_geQ&start_radio=1"
+        },
+        {
+          "titulo": "Mix Patty Gurdy",
+          "url": "https://www.youtube.com/watch?v=Ec729nmajwc&list=RDEMOpm6jN6jim7FnIWwhSlz7w&start_radio=1"
+        },
+        {
+          "titulo": "Mix de rock",
+          "url": "https://www.youtube.com/watch?v=eiFHJr7bKp4&list=RDGMEMJQXQAmqrnmK1SEjY_rKBGAVMO_dZGrg6A50&index=2"
+        },
+        {
+          "titulo": "Celtic metal",
+          "url": "https://www.youtube.com/watch?v=U5u9glfqDsc&list=RDU5u9glfqDsc&start_radio=1&t=2"
+        }        
+      ]
+    },
+    {
+      "titulo": "Series",
+      "cor": "#8726D3",
+      "link_extra": {
+        "text": "Trailer de series",
+        "url": "https://www.youtube.com/"
+      },
+      "videos": [
+        {
+          "titulo": "Anne with an e",
+          "url": "https://www.youtube.com/watch?v=bBervTlBurY"
+        },
+        {
+          "titulo": "O Justiceiro",
+          "url": "https://www.youtube.com/watch?v=flVhhEmkNKM"
+        },
+        {
+          "titulo": "Demolidor",
+          "url": "https://www.youtube.com/watch?v=y3GkQ6yoAA4"
+        },
+        {
+          "titulo": "Os Defensores",
+          "url": "https://www.youtube.com/watch?v=idQmQQBcCmE"
+        }, 
+        {
+          "titulo": "Peaky Blinders",
+          "url": "https://www.youtube.com/watch?v=oVzVdvGIC7U"
+        },
+        {
+          "titulo": "Supernatural",
+          "url": "https://www.youtube.com/watch?v=CX1Wn5zkfI8"
+        }
+      ]
+    },
+    {
+      "titulo": "Animes",
+      "cor": "#8726D3",
+      "link_extra": {
+        "text": "Melhores animes",
+        "url": "https://www.youtube.com/"
+      },
+      "videos": [
+        {
+          "titulo": "Naruto vs Sasuke",
+          "url": "https://www.youtube.com/watch?v=z5TEiYRv558"
+        },
+        {
+          "titulo": "Kirito vs Gleam Eyes",
+          "url": "https://www.youtube.com/watch?v=yClXqINEJdU"
+        },
+        {
+          "titulo": "Ichigo vs Aizen",
+          "url": "https://www.youtube.com/watch?v=CyrLQROwqO4"
+        },
+        {
+          "titulo": "Tanjiro vc Rui",
+          "url": "https://www.youtube.com/watch?v=o-tLTvDX2zE"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "#8726D3",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "#8726D3",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#8726D3",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
