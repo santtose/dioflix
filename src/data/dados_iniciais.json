@@ -5,7 +5,6 @@
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#8726D3",
       "link_extra": {
-        "text": "Minhas playlists favoritas no YouTube",
         "url": "https://www.youtube.com/"
       },
       "videos": [
@@ -43,7 +42,6 @@
       "titulo": "Series",
       "cor": "#8726D3",
       "link_extra": {
-        "text": "Trailer de series",
         "url": "https://www.youtube.com/"
       },
       "videos": [
@@ -77,7 +75,6 @@
       "titulo": "Animes",
       "cor": "#8726D3",
       "link_extra": {
-        "text": "Melhores animes",
         "url": "https://www.youtube.com/"
       },
       "videos": [
@@ -125,7 +122,6 @@
       "titulo": "Games",
       "cor": "#8726D3",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
@@ -148,20 +144,6 @@
         {
           "titulo": "Pokémon Let's Go Pikachu/Eevee",
           "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#8726D3",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
         }
       ]
     }
