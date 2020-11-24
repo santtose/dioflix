@@ -8,9 +8,9 @@ import './Menu.css';
 function Menu() {
     return (
         <nav className="Menu">
-            <a href="/">
+            <Link to="/">
                 <img className="Logo" src={Logo} alt="Dioflix"/>
-            </a>
+            </Link>
 
             <Button as={Link} className="ButtonLink" to="/cadastro/video">
                 Novo Video
