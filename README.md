@@ -1,4 +1,4 @@
 # DIOFLIX
 ## Projeto em React baseado na NETFLIX
 
-### Projeto em produção: https://dioflix.vercel.app/
+### Link do projeto: https://dioflix.vercel.app/
