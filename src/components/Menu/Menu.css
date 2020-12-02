@@ -58,7 +58,7 @@
   }
   .ButtonLink:hover,
   .ButtonLink:focus {
-    opacity: .5;
+    background-color: #8726D3;
   }
   
   @media (max-width: 800px) {

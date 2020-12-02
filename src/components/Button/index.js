@@ -18,7 +18,8 @@ const Button = styled.button`
 
     &:hover,
     &:focus {
-    opacity: .5;
+        opacity: .8;
+        background-color: #8726D3;
     }
 `;
 

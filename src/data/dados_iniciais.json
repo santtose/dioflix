@@ -2,11 +2,7 @@
   "categorias": [
     {
       "titulo": "Music",
-      "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#8726D3",
-      "link_extra": {
-        "url": "https://www.youtube.com/"
-      },
       "videos": [
         {
           "titulo": "Metallica S&M 2000 Full Concert",
@@ -41,9 +37,6 @@
     {
       "titulo": "Series",
       "cor": "#8726D3",
-      "link_extra": {
-        "url": "https://www.youtube.com/"
-      },
       "videos": [
         {
           "titulo": "Anne with an e",
@@ -74,9 +67,6 @@
     {
       "titulo": "Animes",
       "cor": "#8726D3",
-      "link_extra": {
-        "url": "https://www.youtube.com/"
-      },
       "videos": [
         {
           "titulo": "Naruto vs Sasuke",
@@ -121,9 +111,6 @@
     {
       "titulo": "Games",
       "cor": "#8726D3",
-      "link_extra": {
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
       "videos": [
         {
           "titulo": "Final Fantasy 7",
